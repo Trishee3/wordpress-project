@@ -1,0 +1,21 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+/wp-*.php
+/index.php
+/xmlrpc.php
+/license.txt
+/readme.html
+/.htaccess
+
+# Sensitive configuration
+/wp-config.php
+
+# Temporary files
+*.log
+*.bak
+*.old
+
+# Cache
+/wp-content/cache/
+/wp-content/upgrade/

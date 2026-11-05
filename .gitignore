@@ -19,3 +19,6 @@
 # Cache
 /wp-content/cache/
 /wp-content/upgrade/
+
+# Database backups
+*.sql
